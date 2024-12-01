@@ -1,5 +1,4 @@
 ﻿# Survey-System-Project
-To create a README file for the Survey System project, here's a detailed draft based on the provided JavaFX application code and database interactions:
 
 Survey System
 Overview

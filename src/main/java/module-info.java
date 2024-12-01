@@ -1,8 +1,9 @@
-module org.example.surveysystemproject {
+module org.example.surveysystem2 {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
+    opens org.example.surveysystem2 to javafx.fxml;
+    exports org.example.surveysystem2;
 
-    opens org.example.surveysystemproject to javafx.fxml;
-    exports org.example.surveysystemproject;
 }

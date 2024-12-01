@@ -75,3 +75,6 @@ Kyial: Forked the project, completed the UI for creating and viewing surveys. Ba
 Baiel: Writing documentation, minor changes to the code (Controller, and UI) and fixing errors (e.g. problems with merge, pull requests and javafx).
 Aivar: began testing the code, presentation and functionality overall
 
+
+UML Diagram here: 
+![diagram](https://github.com/user-attachments/assets/f24a0e97-0703-49f8-9ec3-d380baa7a562)

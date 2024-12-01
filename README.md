@@ -67,7 +67,7 @@ Baiel: QUestion, Response, Survey created.
 Aivar: overall project plan
 
 Week 2: Feature Development & Integration
-Date: December 7, 2024
+Date: November 29, 2024
 Summary:
 
 Kyial: Forked the project, completed the UI for creating and viewing surveys. Backend setup for CRUD operations. And Controller.

@@ -1,5 +1,8 @@
 ﻿# Survey-System-Project
 
+Presentation is here:
+[Survey_System_Project_Presentation.pptx](https://github.com/user-attachments/files/17969587/Survey_System_Project_Presentation.pptx)
+
 Survey System
 Overview
 The Survey System is a JavaFX-based application that allows users to manage surveys and associated questions. Users can perform operations such as creating, editing, and deleting surveys, as well as managing questions related to each survey. The system uses a PostgreSQL database to store survey and question data. This project is designed to allow easy interaction with surveys and questions via a graphical user interface (GUI).
@@ -78,8 +81,7 @@ Aivar: began testing the code, presentation and functionality overall
 UML Diagram here: 
 ![diagram](https://github.com/user-attachments/assets/f24a0e97-0703-49f8-9ec3-d380baa7a562)
 
-Presentation is here:
-[Survey_System_Project_Presentation.pptx](https://github.com/user-attachments/files/17969587/Survey_System_Project_Presentation.pptx)
+
 
 
 JAR file goes as follows:

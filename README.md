@@ -81,6 +81,8 @@ Aivar: began testing the code, presentation and functionality overall
 UML Diagram here: 
 ![diagram](https://github.com/user-attachments/assets/f24a0e97-0703-49f8-9ec3-d380baa7a562)
 
+ERP Diagram is here:
+![image](https://github.com/user-attachments/assets/2ef50d5d-0a60-4470-bb44-bfe9ea2300ed)
 
 
 
